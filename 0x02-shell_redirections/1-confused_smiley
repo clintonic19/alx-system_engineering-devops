@@ -1,2 +1,19 @@
 #!/bin/bash
-echo \"\(Ôo\)\'
+echo \"\(Ôo\)\o
+t@1805989c2ec5:/alx-system_engineering-devops/0x02-shell_redirections# vi 8-cwd_state
+root@1805989c2ec5:/alx-system_engineering-devops/0x02-shell_redirections# git add .
+root@1805989c2ec5:/alx-system_engineering-devops/0x02-shell_redirections# git commit -m "script that writes into a file"
+[master 0ef509b] script that writes into a file
+ 1 file changed, 2 insertions(+)
+  create mode 100755 0x02-shell_redirections/8-cwd_state
+  root@1805989c2ec5:/alx-system_engineering-devops/0x02-shell_redirections# git push
+  Enumerating objects: 6, done.
+  Counting objects: 100% (6/6), done.
+  Delta compression using up to 2 threads
+  Compressing objects: 100% (3/3), done.
+  Writing objects: 100% (4/4), 385 bytes | 385.00 KiB/s, done.
+  Total 4 (delta 2), reused 0 (delta 0)
+  remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+  To https://github.com/clintonic19/alx-system_engineering-devops.git
+     106048c..0ef509b  master -> master
+
